@@ -107,7 +107,7 @@ document.addEventListener('DOMContentLoaded', function() {
             messageWrapper.appendChild(messageBubble);
         } else {
             const avatar = document.createElement('img');
-            avatar.src = 'dp.jpeg'; // Riya's avatar
+            avatar.src = 'dp.jpeg'; // Ishaan's avatar
             avatar.classList.add('w-8', 'h-8', 'rounded-full', 'mr-2'); // Avatar styling
             messageWrapper.appendChild(avatar);
 
